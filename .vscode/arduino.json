@@ -1,0 +1,5 @@
+{
+    "sketch": "foobot_scoring_safe_blends.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM11"
+}
